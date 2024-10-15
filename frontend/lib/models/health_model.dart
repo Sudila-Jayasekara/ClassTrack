@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class HealthModel {
-  final IconData icon;
+  final String icon;
   final String value;
   final String title;
 
